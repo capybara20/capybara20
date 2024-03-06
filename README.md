@@ -12,6 +12,6 @@ partie française :
 
   👋🏻bonjour tout le monde je me présente je suis nouveau sur Github et je m'appelle capybara 20 mon vrai pseudo est king_capybara c'est juste que Github n'accepte pas ce nom
 
-  💻ma passion est le gaming le code and the capybara en bas je vous ai mit une photo de capybara
+  💻ma passion est le gaming le code et les capybara en bas je vous ai mit une photo de capybara
 
 ![capybara noel ](https://github.com/capybara20/capybara20/assets/162479394/9cd8fd56-2595-465f-a216-242265e8b424)
