@@ -6,7 +6,7 @@ english part :
 
   👋🏻hello everyone let me introduce myself I am new to Github and my name is capybara 20 my real nickname is king_capybara it's just that Github does not accept this name
 
-  💻my passion is gaming the code and the capybara at the bottom I put you a photo of capybara
+  💻my passion is gaming ,the code and the capybara at the bottom I put you a photo of capybara
 
 partie française :
 
